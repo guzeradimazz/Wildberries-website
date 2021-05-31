@@ -137,7 +137,7 @@ body{
     height: 350px;
     background-repeat: no-repeat;
     background-position: right;
-    background-image:  url('/img/Image-3.png');
+    background-image:  url('../img/Image-3.png');
     background-color: #CCD5E6;
 }
 .production_second_line_2{
@@ -146,7 +146,7 @@ body{
     height: 350px;
     background-repeat: no-repeat;
     background-position: right;
-    background-image:  url('/img/Image-4.png');
+    background-image:  url('../img/Image-4.png');
     background-color: #FF4F52;
 }
 .bestseller_button{
@@ -166,7 +166,7 @@ body{
     background-color: #B4D1E0;
     background-repeat: no-repeat;
     background-position: right;
-    background-image: url('/img/promo_1.png');
+    background-image: url('../img/promo_1.png');
 }
 /* стили основного контейнера слайдера */
 .slider {
